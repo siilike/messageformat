@@ -1,5 +1,5 @@
 {
-  "name": "magneds/messageformat",
+  "name": "siilike/messageformat",
   "type": "library",
   "description": "ICU message formatting using keywords instead of positional integers",
   "homepage": "https://github.com/magneds/php-messageformat",
@@ -19,7 +19,6 @@
 	}
   ],
   "require": {
-    "php": "~7.0",
     "ext-intl": "*"
   },
   "require-dev": {

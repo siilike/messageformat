@@ -1,4 +1,6 @@
-# magneds/messageformat
+# siilike/messageformat
+Forked from magneds/messageformat.
+
 The PHP Intl [MessageFormatter](https://php.net/manual/en/class.messageformatter.php) class works great, except for the positional variables syntax. This library solves that by providing a variable name based solution, making it easier for translators to translate content with more of an understanding of what variables represent.
 
 As a positive side effect, it also makes the code more robust by allowing for change in variables without compromising the variable order.
